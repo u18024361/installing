@@ -11,7 +11,7 @@ import { AlertController } from '@ionic/angular';
 export class LoginPage implements OnInit {
 //dddsdjnescjsdncjs
   constructor(public modalController: ModalController,public alertController: AlertController) { }
-
+//ddsfsdvsdcvsdvsdvdsvsdv
   async presentModal() {
     const modal = await this.modalController.create({
       component: ModalPage,
